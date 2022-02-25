@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LengthLibraryConverter
 {
-    internal interface IMeasurement
+    public interface IMeasurement
     {
     }
 }
